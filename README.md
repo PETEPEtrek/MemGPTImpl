@@ -1,2 +1,10 @@
-# MemGPTImpl
-This is a repository for AIRI School project "Memory as  a Tool"
+### 1. Установка
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Интерактивный чат
+```bash
+python chat.py
+```
+
